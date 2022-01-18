@@ -18,6 +18,11 @@ The 461 students represented approximately 1.2% of the total district population
 ### How the data impacted at the school level
 Initially, Thomas High School was ranked near the bottom with it comes to the overall passing percentage at 65.1%. After the ninth grade data were taken out, Thomas High School has risen up to be a top 5 school, with a overall passing percentage at 90.6%. This is a significant change in the percentage increase. The ninth grade student population accounts for 28.2% of Thomas High School's population. 
 
+| School Ranking Before | School Ranking After |
+| :---:    | :---:  |     
+| <img src = "Resources/per_school_before.png">  |  <img src = "Resources/per_school_after.png"> |
+
+
 #### Average Math and Reading Scores by School
 The following tables showed the average score of each school by grade level. Ninth grade data at Thomas High School were not counted.
 | Average Math Score | Average Reading Score |
@@ -27,14 +32,15 @@ The following tables showed the average score of each school by grade level. Nin
 ## Summary
 Based on the data, small and medium size schools tend to do better on the overall passing percentage than large schools. There is a significant difference in the data. Large school average 58% while small and medium size school scored 90% and 91%, respectively. 
 
-<img src = "Resources/school_size.png">
+<img src = "Resources/school_size.png" width = 600>
 
 When comparing the different school types, Charter schools tend to do better than district schools. Charter schools scored 90% on the overall passing perentage while district schools scored 54%. Charter school's average math score is also 6.5 points higher than district schools.
-<img src = "Resources/school_type.png">
+
+<img src = "Resources/school_type.png" width = 600>
 
 Surprisingly, more money spent per student does not correlate with an increase in overall passing percentage. This actually has a negative correlation with less money spent leading to an increase in overall passing percentage. The student/teacher ratio and the size of small schools may explain this scenario. 
 
-<img src = "Resources/spending_range.png">
+<img src = "Resources/spending_range.png" width = 600>
 
 
 
